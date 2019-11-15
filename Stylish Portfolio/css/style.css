@@ -1,0 +1,338 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.top {
+    background: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg);
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 210px 0;
+}
+.top h1 {
+    color: #212529;
+    font-size: 88px;
+    margin: 0px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700;
+}
+.top h3 {
+    color: #212529;
+    font-size: 28px;
+    margin: 0;
+    font-style: italic;
+    font-weight: 700;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.top button {
+    font-size: 16px;
+    background: #1d809f;
+    color: white;
+    padding: 1.25rem 2.5rem;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,.1);
+    cursor: pointer;
+    transition: 0.3s;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top: 40px;
+}
+
+.top button:hover{
+    background-color: #1a5c71;
+}
+.second {
+    background-color: #f8f9fa;
+    text-align: center;
+    background-position: center;
+    padding: 135px 0;
+}
+.second h2 {
+    font-size: 32px;
+    color: #212529;
+    margin: 0 0 8px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.second p {
+    font-size: 20px;
+    color: #212529;
+    margin: 0 0 48px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.second button {
+    background: #343A40;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    padding: 1.25rem 2.5rem;
+    font-weight: 700;
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,.1);
+    font-family: 'Source Sans Pro', sans-serif;
+    transition: 0.3;
+    cursor: pointer;
+}
+
+.second button:hover{
+    background-color: #282d31;
+}
+
+.second a {
+    color: #1d809f;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.forth {
+    background-image: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 230px 0;
+}
+.forth button {
+    font-size: 16px;
+    background: #1d809f;
+    color: white;
+    padding: 1.25rem 2.5rem;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,.1);
+    font-family: 'Source Sans Pro', sans-serif;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.forth button:hover{
+    background-color: #1a5c71;
+}
+.forth h2 {
+    font-size: 56px;
+    color: #212529;
+    margin: 0 105px 48px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.clear{
+    clear: both;
+}
+
+.sixth {
+    background-color: #1d809f;
+    padding: 120px 0;
+    margin-top: 115px;
+    text-align: center;
+}
+
+.sixth h2 {
+    font-size: 32px;
+    color: white;
+    margin: 0 0 24px;
+    font-weight: 700;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.sixth .button1{
+    background-color: #f8f9fa;
+    color: #212529;
+    font-size: 16px;
+    padding: 1.25rem 2.5rem;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,.1);
+    font-family: 'Source Sans Pro', sans-serif;
+    transition: 0.3s;
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+.button1:hover{
+    background-color: white;
+}
+
+.sixth .button2{
+    background-color: #343a40;
+    color: white;
+    font-size: 16px;
+    padding: 1.25rem 2.5rem;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,.1);
+    font-family: 'Source Sans Pro', sans-serif;
+    transition: 0.3;
+    cursor: pointer;
+    text-align: center;
+}
+
+.button2:hover{
+    background-color: #282d31;
+}
+
+.last {
+    text-align: center;
+    background-position: center;
+    margin: 0 0 48px;
+    padding: 80px 0 10px 0;
+}
+.last i {
+    color:white;
+    background: #1d809f;
+    font-size: 24px;
+    border-radius: 100px;
+    padding: 20px 20px;
+    margin-right: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.last i:hover{
+    background-color: #1a5c71;
+}
+
+.last .fb{
+    padding: 20px 22px;
+}
+
+.last .fb:hover{
+    background-color: #1a5c71;
+}
+
+.final {
+    color: #6c757d;
+    font-size: 12.8px;
+    margin-top: 48px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.third {
+    background-color: #1d809f;
+}
+.text {
+    text-align: center;
+    padding: 100px 0 0 0;
+}
+.text h3 {
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #ecb807;
+    margin-bottom: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.text h2 {
+    margin-bottom: 0px;
+    margin-top: 0;
+    color: white;
+    font-size: 48px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.main {
+    padding: 50px 0 320px 150px;
+    margin: 0 15px;
+    width: 90%;
+    margin: auto;
+}
+.part {
+    padding: 0 20px;
+    font-size: 16px;
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+.part i {
+    color: #1d809f;
+    font-size: 36px;
+    border-radius: 50%;
+    border: 1px;
+    background-color: white;
+    padding: 40px 40px;
+    margin-bottom: 15px;
+}
+
+.part .tel{
+    padding: 40px 45px;
+}
+
+.part .sual{
+    padding: 40px 45px;
+}
+
+.part h4 {
+    font-size: 24px;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-bottom: 8px;
+}
+.part p {
+    font-size: 16px;
+    color:rgba(255,255,255,.7);
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#fifth .projects{
+    text-align: center;
+    margin-top: 120px;
+}
+
+.projects h3{
+    font-size: 16px;
+    color: #ecb807;
+    margin-bottom: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.projects h2{
+    color: #212529;
+    font-size: 48px;
+    margin-top: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+.ana .bala img{
+    width: 100%;
+    cursor: pointer;
+}
+
+.ana .bala{
+    width: 50%;
+    float: left;
+    transition: 0.3s;
+    position: relative;
+}
+
+#fifth .ana{
+    width: 80%;
+    margin: auto;
+}
+
+.ana .bala:hover{
+    transform: scale(0.9);
+    opacity: 0.8;
+}
+
+.bala-text h2{
+    color:white;
+    font-size: 12.8px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-bottom: 8px;
+}
+
+.bala-text p{
+    font-size: 19.2px;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.bala-text{
+    position: absolute;
+    top: 60%;
+    left: 14%;
+}
